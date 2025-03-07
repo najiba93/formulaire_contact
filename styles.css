@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(253, 251, 116);
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+    padding-top: 10rem;
+}
+ 
+ 
+button{
+    margin-top: 5rem;
+    max-width: 10rem;
+}
+ 
+form{
+    display: flex;
+    flex-direction: column;
+}
